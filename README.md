@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dharmit Saradva
-- :rocket: **DevOps** ninja
+- :ninja: **DevOps** ninja
 - :dart: Achieved ```AWS certified Solution Architect Associate``` and ```AWS certified Developer Asssociate``` certifications
 - :technologist: Cloud enthusiast. Always keeping updated :nerd_face: 
 
